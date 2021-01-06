@@ -1,0 +1,144 @@
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\EtiquetandoOberon.exe.config
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\EtiquetandoOberon.exe
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\EtiquetandoOberon.pdb
+E:\001-Projetos\EtiquetandoOberon\obj\Debug\EtiquetandoOberon.Properties.Resources.resources
+E:\001-Projetos\EtiquetandoOberon\obj\Debug\EtiquetandoOberon.csproj.GenerateResource.cache
+E:\001-Projetos\EtiquetandoOberon\obj\Debug\EtiquetandoOberon.csproj.CoreCompileInputs.cache
+E:\001-Projetos\EtiquetandoOberon\obj\Debug\EtiquetandoOberon.exe
+E:\001-Projetos\EtiquetandoOberon\obj\Debug\EtiquetandoOberon.pdb
+E:\001-Projetos\EtiquetandoOberon\obj\Debug\EtiquetandoOberon.home.resources
+E:\001-Projetos\EtiquetandoOberon\obj\Debug\EtiquetandoOberon.frmPrint.resources
+E:\001-Projetos\EtiquetandoOberon\obj\Debug\RdlCompile.cache
+E:\001-Projetos\EtiquetandoOberon\obj\Debug\RdlCompile.compiled
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\EnvDTE.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\stdole.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\Microsoft.MSXML.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon\obj\Debug\EtiquetandoOberon.csproj.CopyComplete
+E:\001-Projetos\EtiquetandoOberon\obj\Debug\EtiquetandoOberon.frmPrint3x6.resources
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\EtiquetandoOberon.exe.config
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\EtiquetandoOberon.exe
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\EtiquetandoOberon.pdb
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\EnvDTE.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\stdole.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\Microsoft.MSXML.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\001-Projetos\EtiquetandoOberon - Copia\obj\Debug\EtiquetandoOberon.csprojAssemblyReference.cache
+E:\001-Projetos\EtiquetandoOberon - Copia\obj\Debug\EtiquetandoOberon.frmPrint.resources
+E:\001-Projetos\EtiquetandoOberon - Copia\obj\Debug\EtiquetandoOberon.frmPrint3x6.resources
+E:\001-Projetos\EtiquetandoOberon - Copia\obj\Debug\EtiquetandoOberon.Home.resources
+E:\001-Projetos\EtiquetandoOberon - Copia\obj\Debug\EtiquetandoOberon.Properties.Resources.resources
+E:\001-Projetos\EtiquetandoOberon - Copia\obj\Debug\EtiquetandoOberon.csproj.GenerateResource.cache
+E:\001-Projetos\EtiquetandoOberon - Copia\obj\Debug\RdlCompile.cache
+E:\001-Projetos\EtiquetandoOberon - Copia\obj\Debug\RdlCompile.compiled
+E:\001-Projetos\EtiquetandoOberon - Copia\obj\Debug\EtiquetandoOberon.csproj.CoreCompileInputs.cache
+E:\001-Projetos\EtiquetandoOberon - Copia\obj\Debug\EtiquetandoOberon.csproj.CopyComplete
+E:\001-Projetos\EtiquetandoOberon - Copia\obj\Debug\EtiquetandoOberon.exe
+E:\001-Projetos\EtiquetandoOberon - Copia\obj\Debug\EtiquetandoOberon.pdb
+E:\001-Projetos\EtiquetandoOberon\obj\Debug\EtiquetandoOberon.relatorios.frmPrintListagem.resources
+E:\001-Projetos\EtiquetandoOberon\obj\Debug\EtiquetandoOberon.csprojAssemblyReference.cache
+E:\001-Projetos\EtiquetandoOberon\obj\Debug\EtiquetandoOberon.csproj.ResolveComReference.cache
